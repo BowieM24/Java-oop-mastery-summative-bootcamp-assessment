@@ -1,0 +1,213 @@
+```text
+========================================
+OOP MASTERY ASSESSMENT
+SECTION B - THEORY QUESTIONS
+========================================
+
+Instructions
+
+- Do not remove the question text.
+- Write your answer directly underneath each question.
+- Use complete sentences.
+- Provide examples where appropriate.
+- Demonstrate understanding rather than memorisation.
+- Support explanations with practical scenarios.
+
+============================================================
+QUESTION 1 — ENCAPSULATION
+============================================================
+
+Explain:
+
+- What encapsulation is.
+- Why encapsulation is important.
+- How private fields contribute to encapsulation.
+- The purpose of getters and setters.
+- Advantages of protecting object state.
+
+Provide a practical Java example.
+
+
+ANSWER:
+
+
+
+
+============================================================
+QUESTION 2 — INHERITANCE
+============================================================
+
+Explain:
+
+- What inheritance is.
+- Why inheritance is useful.
+- The relationship between a parent class and child class.
+- Advantages and disadvantages of inheritance.
+
+Provide a practical Java example.
+
+
+ANSWER:
+
+
+
+
+============================================================
+QUESTION 3 — POLYMORPHISM
+============================================================
+
+Explain:
+
+- What polymorphism is.
+- Compile-time polymorphism.
+- Runtime polymorphism.
+- Why polymorphism improves flexibility.
+
+Provide a practical Java example.
+
+
+ANSWER:
+
+
+
+
+============================================================
+QUESTION 4 — ABSTRACTION
+============================================================
+
+Explain:
+
+- What abstraction is.
+- Why abstraction is useful.
+- The purpose of abstract classes.
+- The purpose of interfaces.
+- Differences between abstract classes and interfaces.
+
+Provide practical examples.
+
+
+ANSWER:
+
+
+
+
+============================================================
+QUESTION 5 — COMPOSITION VS INHERITANCE
+============================================================
+
+Explain:
+
+- What composition is.
+- What inheritance is.
+- Differences between them.
+- Situations where composition is preferred.
+- Situations where inheritance is preferred.
+
+Provide examples.
+
+
+ANSWER:
+
+
+
+
+============================================================
+QUESTION 6 — INTERFACES
+============================================================
+
+Explain:
+
+- What an interface is.
+- Why interfaces are useful.
+- Multiple interface implementation.
+- Real-world examples of interfaces.
+
+Provide a Java example.
+
+
+ANSWER:
+
+
+
+
+============================================================
+QUESTION 7 — AGGREGATION
+============================================================
+
+Explain:
+
+- What aggregation is.
+- How aggregation differs from composition.
+- Real-world examples.
+- Benefits of aggregation.
+
+Provide a Java example.
+
+
+ANSWER:
+
+
+
+
+============================================================
+QUESTION 8 — ASSOCIATION
+============================================================
+
+Explain:
+
+- What association is.
+- Different types of associations.
+- Real-world examples.
+- How association differs from aggregation and composition.
+
+Provide a Java example.
+
+
+ANSWER:
+
+
+
+
+============================================================
+QUESTION 9 — IMMUTABLE OBJECTS
+============================================================
+
+Explain:
+
+- What immutable objects are.
+- Benefits of immutability.
+- How immutable classes are created.
+- Practical use cases.
+
+Provide a Java example.
+
+
+ANSWER:
+
+
+
+
+============================================================
+QUESTION 10 — SOLID PRINCIPLES
+============================================================
+
+Explain the five SOLID principles:
+
+- Single Responsibility Principle
+- Open Closed Principle
+- Liskov Substitution Principle
+- Interface Segregation Principle
+- Dependency Inversion Principle
+
+Provide practical examples.
+
+
+ANSWER:
+
+
+
+
+============================================================
+END OF THEORY SECTION
+============================================================
+```
