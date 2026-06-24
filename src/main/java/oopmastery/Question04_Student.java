@@ -5,12 +5,10 @@ public class Question04_Student {
     private String name;
 
     public Question04_Student(String name) {
-        // TODO:
-        // Store the student's name
+        this.name = name;
     }
 
     public String getName() {
-        // TODO:
-        return "";
+        return name;
     }
 }
