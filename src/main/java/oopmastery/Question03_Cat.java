@@ -8,8 +8,6 @@ public class Question03_Cat extends Question03_Animal {
 
     @Override
     public String makeSound() {
-        // TODO:
-        // Return "Meow"
-        return "";
+        return "Meow";
     }
 }
